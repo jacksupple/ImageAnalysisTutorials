@@ -3,7 +3,7 @@
 
 Work through these tutorials in Google Colab:
 
-**YOLO Instance Detection:**
+**YOLO Instance Detection:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jacksupple/ImageAnalysisTutorials/blob/main/notebooks/YOLO-CVAT-Mitosis.ipynb)
 
 _This tutorial uses YOLO to detect mitosis events._
 
