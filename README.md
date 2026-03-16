@@ -2,12 +2,12 @@
 
 
 Work through these tutorials in Google Colab:
+-*Read more about YOLO by Ultralytics here: https://docs.ultralytics.com/*
 
 **YOLO Instance Detection:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jacksupple/ImageAnalysisTutorials/blob/main/Notebooks/YOLO_CVAT_Mitosis.ipynb)
 
 _This tutorial uses YOLO to detect mitosis events._
 
--*Read more about YOLO by Ultralytics here: https://docs.ultralytics.com/*
 
 
 
@@ -15,7 +15,6 @@ _This tutorial uses YOLO to detect mitosis events._
 
 _This tutorial uses YOLO to track multiple butterflies._
 
--*Read more about YOLO by Ultralytics here: https://docs.ultralytics.com/*
 
 
 
