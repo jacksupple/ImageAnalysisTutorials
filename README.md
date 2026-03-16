@@ -9,11 +9,13 @@ _This tutorial uses YOLO to detect mitosis events._
 
 -*Read more about YOLO by Ultralytics here: https://docs.ultralytics.com/*
 
+
 **YOLO Multi-Object Tracking:**
 
-_This tutorial uses YOLO to track multiple objects._
+_This tutorial uses YOLO to track multiple butterflies._
 
 -*Read more about YOLO by Ultralytics here: https://docs.ultralytics.com/*
+
 
 **DeepLabCut and Anipose for pose estimation:**
 
