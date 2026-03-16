@@ -1,4 +1,4 @@
-# ImageAnalysisTutorials
+# Image Analysis Tutorials
 
 
 Work through these tutorials in Google Colab:
