@@ -1,8 +1,8 @@
 # ImageAnalysisTutorials
 
+-*Read more about YOLO by Ultralytics here: https://docs.ultralytics.com/*
 
 Work through these tutorials in Google Colab:
--*Read more about YOLO by Ultralytics here: https://docs.ultralytics.com/*
 
 **YOLO Instance Detection:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jacksupple/ImageAnalysisTutorials/blob/main/Notebooks/YOLO_CVAT_Mitosis.ipynb)
 
